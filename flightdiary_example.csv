@@ -1,0 +1,299 @@
+
+Date,"Flight number",From,To,"Dep time","Arr time",Duration,Airline,Aircraft,Registration,"Seat number","Seat type","Flight class","Flight reason",Note,Dep_id,Arr_id,Airline_id,Aircraft_id
+2014-11-04,LH1472,"Frankfurt am Main / Frankfurt (FRA/EDDF)","Moscow / Vnukovo (VKO/UUWW)",20:25:00,00:00:00,02:31:00,"Lufthansa (LH/DLH)","Airbus A320 (A320)",D-AIZO,,2,1,1,,919,3190,239,27
+2014-10-31,LH1471,"Moscow / Vnukovo (VKO/UUWW)","Frankfurt am Main / Frankfurt (FRA/EDDF)",19:29:00,00:00:00,02:39:00,"Lufthansa (LH/DLH)","Airbus A321 (A321)",D-AISB,,1,1,1,,3190,919,239,28
+2014-10-12,W62491,"Budapest / Franz Liszt International (BUD/LHBP)","Moscow / Vnukovo (VKO/UUWW)",23:53:00,00:00:00,02:05:00,"Wizz Air (W6/WZZ)","Airbus A320 (A320)",HA-LWR,,0,1,1,,429,3190,859,27
+2014-10-11,W62490,"Moscow / Vnukovo (VKO/UUWW)","Budapest / Franz Liszt International (BUD/LHBP)",11:34:00,00:00:00,02:15:00,"Wizz Air (W6/WZZ)","Airbus A320 (A320)",HA-LWR,,3,1,2,,3190,429,859,27
+2014-09-07,UN2218,"Simferopol / Simferopol (SIP/UKFF)","Moscow / Sheremetyevo (SVO/UUEE)",22:20:00,00:00:00,00:16:00,"Transaero Airlines (UN/TSO)","Boeing 747 (B747)",EI-XLE,24A,1,1,1,,2673,2816,795,233
+2014-08-24,NN343,"Moscow / Domodedovo (DME/UUDD)","Simferopol / Simferopol (SIP/UKFF)",08:06:00,00:00:00,02:03:00,"VIM Airlines (NN/MOV)","Boeing 757 (B757)",RA-73009,,1,1,1,,3651,2673,528,2010
+2014-08-03,THY419,"Istanbul / Ataturk (IST/LTBA)","Moscow / Vnukovo (VKO/UUWW)",23:13:00,00:00:00,02:24:00,"Turkish Airlines (TK/THY)","Boeing 737 (B73X)",TC-JVF,,1,1,1,,1284,3190,769,2009
+2014-08-01,THY416,"Moscow / Vnukovo (VKO/UUWW)","Istanbul / Ataturk (IST/LTBA)",21:44:00,00:00:00,02:33:00,"Turkish Airlines (TK/THY)","Boeing 737 (B73X)",TC-JHE,,1,1,1,,3190,1284,769,2009
+2014-07-20,UN132,"Sochi / Sochi (AER/URSS)","Moscow / Domodedovo (DME/UUDD)",19:26:00,00:00:00,01:56:00,"Transaero Airlines (UN/TSO)","Boeing 737 (B73X)",EI-DDK,,1,1,1,,52,3651,795,2009
+2014-07-19,UN141,"Moscow / Domodedovo (DME/UUDD)","Sochi / Sochi (AER/URSS)",10:29:00,00:00:00,02:14:00,"Transaero Airlines (UN/TSO)","Boeing 737 (B73X)",EI-DTV,,1,1,1,,3651,52,795,2009
+2014-06-15,EZY8401,"London / Gatwick (LGW/EGKK)","Moscow / Domodedovo (DME/UUDD)",07:26:00,00:00:00,03:29:00,"Easyjet (U2/EZY)","Airbus A320 (A320)",G-EZWF,,1,1,1,,1614,3651,291,27
+2014-06-14,FR9852,"Cork / Chorcai (ORK/EICK)","London / Gatwick (LGW/EGKK)",20:15:00,00:00:00,00:55:00,"Ryanair (FR/RYR)","Boeing 737 (B73X)",EI-DHR,,1,1,1,,2209,1614,668,2009
+2014-06-12,FR8867,"Vilnius / Vilnius (VNO/EYVI)","Cork / Chorcai (ORK/EICK)",12:12:00,00:00:00,03:21:00,"Ryanair (FR/RYR)","Boeing 737 (B73X)",EI-DHR,,3,1,1,,3600,2209,668,2009
+2014-05-18,UN218,"Simferopol / Simferopol (SIP/UKFF)","Moscow / Domodedovo (DME/UUDD)",13:07:00,00:00:00,02:21:00,"Transaero Airlines (UN/TSO)","Boeing 737 (B73X)",EI-CZK,,1,1,1,,2673,3651,795,2009
+2014-05-17,UN217,"Moscow / Domodedovo (DME/UUDD)","Simferopol / Simferopol (SIP/UKFF)",06:22:00,00:00:00,02:03:00,"Transaero Airlines (UN/TSO)","Boeing 737 (B73X)",EI-CZK,16A,1,1,1,,3651,2673,795,2009
+2014-05-11,EZY1871,"Manchester / Manchester (MAN/EGCC)","Moscow / Domodedovo (DME/UUDD)",07:03:00,00:00:00,00:37:00,"Easyjet (U2/EZY)","Airbus A320 (A320)",G-EZUR,9A,1,1,1,,1747,3651,291,27
+2014-05-06,VS3004,"Edinburgh / Edinburgh (EDI/EGPH)","London / Heathrow (LHR/EGLL)",11:38:00,00:00:00,01:03:00,"Virgin Atlantic (VS/VIR)","Airbus A320 (A320)",EIDEI,5F,1,1,1,,785,1618,835,27
+2014-04-30,EZY1872,"Moscow / Domodedovo (DME/UUDD)","Manchester / Manchester (MAN/EGCC)",15:41:00,00:00:00,03:46:00,"Easyjet (U2/EZY)","Airbus A319 (A319)",,,1,1,1,,3651,1747,291,26
+2014-04-07,EK131,"Dubai / Dubai International (DXB/OMDB)","Moscow / Domodedovo (DME/UUDD)",18:03:00,00:00:00,04:43:00,"Emirates (EK/UAE)","Airbus A380 (A380)",A6-EES,,0,1,1,,768,3651,807,38
+2014-04-07,EK651,"Colombo / Bandaranaike (CMB/VCBI)","Dubai / Dubai International (DXB/OMDB)",10:18:00,00:00:00,04:37:00,"Emirates (EK/UAE)","Boeing 777 (B777)",A6-ECB,,1,1,1,,577,768,807,2012
+2014-03-31,QTR658,"Doha / Doha (DOH/OTBD)","Colombo / Bandaranaike (CMB/VCBI)",01:27:00,00:00:00,03:58:00,"Qatar Airways (QR/QTR)","Airbus A321 (A321)",A7-AIA,,1,1,1,,738,577,634,28
+2014-03-30,QTR1049,"Abu Dhabi / Abu Dhabi (AUH/OMAA)","Doha / Doha (DOH/OTBD)",23:55:00,00:00:00,01:04:00,"Qatar Airways (QR/QTR)","Airbus A321 (A321)",A7-ADK,,0,1,1,,188,738,634,28
+2014-03-30,EY68,"Moscow / Domodedovo (DME/UUDD)","Abu Dhabi / Abu Dhabi (AUH/OMAA)",17:10:00,00:00:00,04:28:00,"Etihad Airways (EY/ETD)","Airbus A330 (A330)",A6-EYA,,1,1,1,,3651,188,276,29
+2014-03-10,EZY1871,"Manchester / Manchester (MAN/EGCC)","Moscow / Domodedovo (DME/UUDD)",13:48:00,00:00:00,03:22:00,"Easyjet (U2/EZY)","Airbus A319 (A319)",G-EZGI,14A,1,1,1,,1747,3651,291,26
+2014-03-09,FR552,"Dublin / Dublin (DUB/EIDW)","Manchester / Manchester (MAN/EGCC)",06:44:00,00:00:00,00:42:00,"Ryanair (FR/RYR)","Boeing 737 (B73X)",EI-DAI,,1,1,1,,757,1747,668,2009
+2014-03-08,FR553,"Manchester / Manchester (MAN/EGCC)","Dublin / Dublin (DUB/EIDW)",08:06:00,00:00:00,00:41:00,"Ryanair (FR/RYR)","Boeing 737 (B73X)",EI-DYD,,1,1,1,,1747,757,668,2009
+2014-03-07,EZY1872,"Moscow / Domodedovo (DME/UUDD)","Manchester / Manchester (MAN/EGCC)",22:37:00,00:00:00,03:43:00,"Easyjet (U2/EZY)","Airbus A320 (A320)",G-EZTM,20F,1,1,1,,3651,1747,291,27
+2014-01-24,UN2247,"Kiev / Zhulyany (IEV/UKKK)","Moscow / Domodedovo (DME/UUDD)",19:05:00,00:00:00,01:38:00,"Transaero Airlines (UN/TSO)","Boeing 737 (B73X)",EI-UNG,14A,1,1,0,"Нет окна",1215,3651,795,2009
+2014-01-08,EZY8401,"London / Gatwick (LGW/EGKK)","Moscow / Domodedovo (DME/UUDD)",07:00:00,00:00:00,03:40:00,"Easyjet (U2/EZY)","Airbus A320 (A320)",G-EZTE,7A,0,1,1,,1614,3651,291,27
+2014-01-07,EZY8568,"Catania / Fontanarossa (CTA/LICC)","London / Gatwick (LGW/EGKK)",18:25:00,00:00:00,02:58:00,"Easyjet (U2/EZY)","Airbus A319 (A319)",G-EZFU,,0,1,1,,625,1614,291,26
+2013-12-28,EZY5245,"London / Gatwick (LGW/EGKK)","Palermo / Punta Raisi (PMO/LICJ)",14:50:00,00:00:00,02:30:00,"Easyjet (U2/EZY)","Airbus A319 (A319)",G-EZFW,,1,1,1,,1614,2350,291,26
+2013-12-27,EZY8404,"Moscow / Domodedovo (DME/UUDD)","London / Gatwick (LGW/EGKK)",21:55:00,00:00:00,04:05:00,"Easyjet (U2/EZY)","Airbus A320 (A320)",G-EZUJ,7A,1,1,1,,3651,1614,291,27
+2013-10-31,LX1326,"Zurich / Kloten (ZRH/LSZH)","Moscow / Domodedovo (DME/UUDD)",12:20:00,00:00:00,03:14:00,"Swiss International Airlines (LX/SWR)","Airbus A321 (A321)",HB-IOH,,0,1,1,,3548,3651,741,28
+2013-10-30,WK24,"Cancun / Cancun (CUN/MMUN)","Zurich / Kloten (ZRH/LSZH)",20:15:00,00:00:00,15:30:00,"Edelweiss Air (8R/EDW)","Airbus A330-300 (A333)",HB-JHQ,,0,1,1,,639,3548,926,31
+2013-10-30,WK24,"Varadero / Varadero (VRA/MUVR)","Cancun / Cancun (CUN/MMUN)",17:20:00,00:00:00,01:15:00,"Edelweiss Air (8R/EDW)","Airbus A330-300 (A333)",HB-JHQ,,0,1,1,,3227,639,926,31
+2013-10-22,WK24,"Zurich / Kloten (ZRH/LSZH)","Varadero / Varadero (VRA/MUVR)",09:42:00,00:00:00,11:33:00,"Edelweiss Air (8R/EDW)","Airbus A330-300 (A333)",HB-JHQ,,3,1,1,,3548,3227,926,31
+2013-10-21,LX1327,"Moscow / Domodedovo (DME/UUDD)","Zurich / Kloten (ZRH/LSZH)",18:45:00,00:00:00,03:27:00,"Swiss International Airlines (LX/SWR)","Airbus A321 (A321)",HB-IOL,,1,1,1,,3651,3548,741,28
+2013-09-29,W62489,"Budapest / Franz Liszt International (BUD/LHBP)","Moscow / Vnukovo (VKO/UUWW)",11:15:00,00:00:00,02:15:00,"Wizz Air (W6/WZZ)","Airbus A320 (A320)",HA-LWO,,1,1,1,,429,3190,859,27
+2013-09-27,W62490,"Moscow / Vnukovo (VKO/UUWW)","Budapest / Franz Liszt International (BUD/LHBP)",16:20:00,00:00:00,02:10:00,"Wizz Air (W6/WZZ)","Airbus A320 (A320)",HA-LPU,,2,1,1,,3190,429,859,27
+2013-05-04,SU1715,"Khabarovsk / Novy (KHV/UHHH)","Moscow / Sheremetyevo (SVO/UUEE)",08:50:00,00:00:00,08:08:00,"Aeroflot (SU/AFL)","Boeing 767 (B767)",VP-BAY,27A,1,1,1,,1426,2816,33,2011
+2013-05-04,XF4612,"Vladivostok / Vladivostok (VVO/UHWW)","Khabarovsk / Novy (KHV/UHHH)",08:10:00,00:00:00,01:00:00,"Vladivostok Air (XF/VLK)","Airbus A320 (A320)",VQ-BHS,,0,1,1,,3261,1426,840,27
+2013-05-01,XF4641,"Krasnojarsk / Yemelyanovo (KJA/UNKL)","Khabarovsk / Novy (KHV/UHHH)",23:35:00,00:00:00,04:11:00,"Vladivostok Air (XF/VLK)","Tupolev TU-204 (T204)",RA-64044,,0,1,1,,3937,1426,840,1778
+2013-05-01,XF4641,"Khabarovsk / Novy (KHV/UHHH)","Vladivostok / Vladivostok (VVO/UHWW)",09:00:00,00:00:00,01:05:00,"Vladivostok Air (XF/VLK)","Tupolev TU-204 (T204)",RA-64044,,0,1,1,,1426,3261,840,1778
+2013-04-30,SU1482,"Moscow / Sheremetyevo (SVO/UUEE)","Krasnojarsk / Yemelyanovo (KJA/UNKL)",23:50:00,00:00:00,04:10:00,"Aeroflot (SU/AFL)","Airbus A320 (A320)",VP-BRZ,,0,1,1,,2816,3937,33,27
+2013-04-28,SU2423,"Venice / Marco Polo (VCE/LIPZ)","Moscow / Sheremetyevo (SVO/UUEE)",23:50:00,00:00:00,03:00:00,"Aeroflot (SU/AFL)","Airbus A321 (A321)",VQ-BEE,,0,1,1,,3148,2816,33,28
+2013-04-26,SU2422,"Moscow / Sheremetyevo (SVO/UUEE)","Venice / Marco Polo (VCE/LIPZ)",20:50:00,00:00:00,03:00:00,"Aeroflot (SU/AFL)","Airbus A320 (A320)",VP-BID,8A,1,1,1,,2816,3148,33,27
+2013-04-01,SU1883,"Bishkek / Manas (FRU/UAFM)","Moscow / Sheremetyevo (SVO/UUEE)",06:35:00,00:00:00,03:15:00,"Aeroflot (SU/AFL)","Airbus A321 (A321)",VP-BWD,8A,1,1,1,,925,2816,33,28
+2013-03-29,SU1882,"Moscow / Sheremetyevo (SVO/UUEE)","Bishkek / Manas (FRU/UAFM)",23:20:00,00:00:00,05:00:00,"Aeroflot (SU/AFL)","Airbus A321 (A321)",VP-BUM,21E,3,1,1,,2816,925,33,28
+2013-03-17,AB8353,"Berlin / Tegel (TXL/EDDT)","Moscow / Domodedovo (DME/UUDD)",21:35:00,00:00:00,02:30:00,"Air Berlin (AB/BER)","Airbus A320 (A320)",D-ABNA,18F,1,1,1,,3055,3651,125,27
+2013-03-15,AB8353,"Moscow / Domodedovo (DME/UUDD)","Berlin / Tegel (TXL/EDDT)",18:40:00,00:00:00,02:32:00,"Air Berlin (AB/BER)","Airbus A320 (A320)",D-ABDQ,23A,1,1,1,,3651,3055,125,27
+2013-03-10,LH1472,"Frankfurt am Main / Frankfurt (FRA/EDDF)","Moscow / Vnukovo (VKO/UUWW)",18:45:00,00:00:00,03:00:00,"Lufthansa (LH/DLH)","Airbus A319 (A319)",D-AILD,20F,2,1,1,,919,3190,239,26
+2013-03-08,LH1473,"Moscow / Vnukovo (VKO/UUWW)","Frankfurt am Main / Frankfurt (FRA/EDDF)",09:20:00,00:00:00,03:33:00,"Lufthansa (LH/DLH)","Airbus A319 (A319)",D-AILF,18E,1,1,1,,3190,919,239,26
+2013-02-25,AB8356,"Berlin / Tegel (TXL/EDDT)","Moscow / Domodedovo (DME/UUDD)",21:31:00,00:00:00,02:39:00,"Air Berlin (AB/BER)","Airbus A320 (A320)",D-ABFG,20A,1,1,1,,3055,3651,125,27
+2013-02-25,AB6202,"Munich / Franz Josef Strauss (MUC/EDDM)","Berlin / Tegel (TXL/EDDT)",19:20:00,00:00:00,00:51:00,"Air Berlin (AB/BER)","Boeing 737 (B73X)",D-ABMK,27F,1,1,1,,1952,3055,125,2009
+2013-02-22,AB8283,"Moscow / Domodedovo (DME/UUDD)","Munich / Franz Josef Strauss (MUC/EDDM)",17:30:00,00:00:00,03:10:00,"Air Berlin (AB/BER)","Airbus A320 (A320)",D-ABDU,10F,1,1,1,,3651,1952,125,27
+2013-01-13,SU209,"Shanghai / Pudong (PVG/ZSPD)","Moscow / Sheremetyevo (SVO/UUEE)",12:50:00,00:00:00,09:30:00,"Aeroflot (SU/AFL)","Airbus A330-300 (A333)",VQ-BPJ,30A,1,1,1,,3653,2816,33,31
+2013-01-11,5J678,"Manila / Ninoy Aquino International (MNL/RPLL)","Shanghai / Pudong (PVG/ZSPD)",20:40:00,00:00:00,02:48:00,"Cebu Pacific (5J/CEB)","Airbus A320 (A320)",RP-C3245,,0,1,1,,1898,3653,906,27
+2013-01-07,5J530,"Kalibo / Kalibo (KLO/RPVK)","Manila / Ninoy Aquino International (MNL/RPLL)",23:00:00,00:00:00,01:15:00,"Cebu Pacific (5J/CEB)","ATR 72 (AT7X)",RP-C7257,11C,3,1,1,,1450,1898,906,2032
+2012-12-31,5J899,"Manila / Ninoy Aquino International (MNL/RPLL)","Malay / Godofredo P. Ramos (MPH/RPVE)",12:05:00,00:00:00,01:10:00,"Cebu Pacific (5J/CEB)","ATR 72 (AT7X)",,,0,1,1,,1898,3693,906,2032
+2012-12-31,5J679,"Shanghai / Pudong (PVG/ZSPD)","Manila / Ninoy Aquino International (MNL/RPLL)",00:30:00,00:00:00,03:30:00,"Cebu Pacific (5J/CEB)","Airbus A320 (A320)",RP-C3264,,0,1,1,,3653,1898,906,27
+2012-12-29,SU208,"Moscow / Sheremetyevo (SVO/UUEE)","Shanghai / Pudong (PVG/ZSPD)",22:00:00,00:00:00,08:30:00,"Aeroflot (SU/AFL)","Boeing 767-300ER (B763)",VP-BWX,,0,1,1,,2816,3653,33,2078
+2012-11-05,BT422,"Riga / Riga (RIX/EVRA)","Moscow / Sheremetyevo (SVO/UUEE)",17:05:00,00:00:00,01:32:00,"AirBaltic (BT/BTI)","Boeing 737 (B73X)",YL-BBX,,0,1,1,,3623,2816,154,2009
+2012-11-04,BT630,"Milan / Linate (LIN/LIML)","Riga / Riga (RIX/EVRA)",17:20:00,00:00:00,02:31:00,"AirBaltic (BT/BTI)","Boeing 737 (B73X)",YL-BBX,,0,1,1,,1627,3623,154,2009
+2012-10-31,WK24,"Cancun / Cancun (CUN/MMUN)","Zurich / Kloten (ZRH/LSZH)",22:15:00,00:00:00,09:15:00,"Edelweiss Air (8R/EDW)","Airbus A330-300 (A333)",HB-JHQ,,0,1,1,,639,3548,926,31
+2012-10-31,WK24,"Varadero / Varadero (VRA/MUVR)","Cancun / Cancun (CUN/MMUN)",19:20:00,00:00:00,01:15:00,"Edelweiss Air (8R/EDW)","Airbus A330-300 (A333)",HB-JHQ,,0,1,1,,3227,639,926,31
+2012-10-17,WK24,"Zurich / Kloten (ZRH/LSZH)","Varadero / Varadero (VRA/MUVR)",09:20:00,00:00:00,12:40:00,"Edelweiss Air (8R/EDW)","Airbus A330-300 (A333)",HB-JHQ,,0,1,1,,3548,3227,926,31
+2012-10-16,LX1327,"Moscow / Domodedovo (DME/UUDD)","Zurich / Kloten (ZRH/LSZH)",14:30:00,00:00:00,03:30:00,"Swiss International Airlines (LX/SWR)","Airbus A320 (A320)",HB-IJQ,,0,1,1,,3651,3548,741,27
+2012-09-09,SU1825,"Simferopol / Simferopol (SIP/UKFF)","Moscow / Sheremetyevo (SVO/UUEE)",19:10:00,00:00:00,02:02:00,"Aeroflot (SU/AFL)","Airbus A321 (A321)",VP-BQX,16A,1,1,1,,2673,2816,33,28
+2012-08-31,SU1826,"Moscow / Sheremetyevo (SVO/UUEE)","Simferopol / Simferopol (SIP/UKFF)",22:00:00,00:00:00,01:50:00,"Aeroflot (SU/AFL)","Airbus A320 (A320)",VP-BME,,1,1,1,,2816,2673,33,27
+2012-07-28,SU1125,"Sochi / Sochi (AER/URSS)","Moscow / Sheremetyevo (SVO/UUEE)",18:45:00,00:00:00,02:00:00,"Aeroflot (SU/AFL)","Airbus A320 (A320)",VP-BDK,17F,1,1,1,,52,2816,33,27
+2012-07-28,SU1120,"Moscow / Sheremetyevo (SVO/UUEE)","Sochi / Sochi (AER/URSS)",08:50:00,00:00:00,02:15:00,"Aeroflot (SU/AFL)","Airbus A320 (A320)",VQ-BIV,17F,1,1,1,,2816,52,33,27
+2012-06-12,OV303,"Tallinn / Ulemiste (TLL/EETN)","Moscow / Sheremetyevo (SVO/UUEE)",18:25:00,00:00:00,01:50:00,"Estonian Air (OV/ELL)","Boeing 737 (B73X)",ES-ABL,10F,1,1,1,,2956,2816,263,2009
+2012-06-10,OV304,"Moscow / Sheremetyevo (SVO/UUEE)","Tallinn / Ulemiste (TLL/EETN)",16:55:00,00:00:00,01:40:00,"Estonian Air (OV/ELL)","Embraer ERJ-170 (E170)",ES-AEB,7A,1,1,1,,2816,2956,263,654
+2012-05-20,SU1804,"Kiev / Borispol (KBP/UKBB)","Moscow / Sheremetyevo (SVO/UUEE)",16:50:00,00:00:00,01:30:00,"Aeroflot (SU/AFL)","Airbus A321 (A321)",VP-BWN,11E,1,1,1,,1388,2816,33,28
+2012-05-19,SU1804,"Moscow / Sheremetyevo (SVO/UUEE)","Kiev / Borispol (KBP/UKBB)",09:50:00,00:00:00,01:40:00,"Aeroflot (SU/AFL)","Airbus A321 (A321)",VQ-BOI,20A,1,1,1,,2816,1388,33,28
+2012-05-06,AZ596,"Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)","Moscow / Sheremetyevo (SVO/UUEE)",22:20:00,00:00:00,03:12:00,"Alitalia (AZ/AZA)","Airbus A321 (A321)",EI-IXU,10F,1,1,1,,872,2816,105,28
+2012-05-06,AZ1678,"Florence / Peretola (FLR/LIRQ)","Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)",11:30:00,00:00:00,00:45:00,"Alitalia (AZ/AZA)","Airbus A319 (A319)",EI-IMJ,,1,1,1,,895,872,105,26
+2012-04-29,AZ1675,"Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)","Pisa / Galileo Galilei (PSA/LIRP)",10:10:00,00:00:00,01:00:00,"Alitalia (AZ/AZA)","Airbus A319 (A319)",EI-IMI,,1,1,1,,872,2404,105,26
+2012-04-29,AZ595,"Moscow / Sheremetyevo (SVO/UUEE)","Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)",05:50:00,00:00:00,03:46:00,"Alitalia (AZ/AZA)","Airbus A321 (A321)",I-BIXN,,1,1,1,,2816,872,105,28
+2012-03-13,UT558,"Makhachkala / Makhachkala (MCX/URML)","Moscow / Vnukovo (VKO/UUWW)",16:07:00,00:00:00,02:30:00,"UTair Aviation (UT/UTA)","Boeing 737 (B73X)",VQ-BAD,9B,2,1,1,,1773,3190,778,2009
+2012-03-08,SU1850,"Moscow / Sheremetyevo (SVO/UUEE)","Baku / Heydar Aliyev (GYD/UBBB)",12:16:00,00:00:00,02:23:00,"Aeroflot (SU/AFL)","Airbus A320 (A320)",VQ-BIV,7E,2,1,1,,2816,216,33,27
+2012-02-26,OS605,"Vienna / Schwechat (VIE/LOWW)","Moscow / Domodedovo (DME/UUDD)",21:10:00,00:00:00,02:34:00,"Austrian Airlines (OS/AUA)","Airbus A321 (A321)",OE-LBA,15F,1,1,1,,3179,3651,87,28
+2012-02-23,OS602,"Moscow / Domodedovo (DME/UUDD)","Vienna / Schwechat (VIE/LOWW)",16:50:00,00:00:00,02:33:00,"Austrian Airlines (OS/AUA)","Airbus A320 (A320)",OE-LBN,25F,1,1,1,,3651,3179,87,27
+2012-01-10,SU596,"Hong Kong / Hong Kong International (HKG/VHHH)","Moscow / Sheremetyevo (SVO/UUEE)",14:00:00,00:00:00,10:40:00,"Aeroflot (SU/AFL)","Boeing 767-300ER (B763)",VP-BWU,23H,1,1,1,,1135,2816,33,2078
+2012-01-08,FD3924,"Phuket / Phuket (HKT/VTSP)","Hong Kong / Hong Kong International (HKG/VHHH)",17:30:00,00:00:00,02:23:00,"Thai AirAsia (FD/AIQ)","Airbus A320 (A320)",HS-ABO,18E,1,1,1,,1137,1135,1077,27
+2011-12-25,FD3925,"Hong Kong / Hong Kong International (HKG/VHHH)","Phuket / Phuket (HKT/VTSP)",20:25:00,00:00:00,03:02:00,"Thai AirAsia (FD/AIQ)","Airbus A320 (A320)",HS-ABL,9E,1,1,1,,1135,1137,1077,27
+2011-12-23,SU595,"Moscow / Sheremetyevo (SVO/UUEE)","Hong Kong / Hong Kong International (HKG/VHHH)",20:40:00,00:00:00,10:03:00,"Aeroflot (SU/AFL)","Airbus A330-300 (A333)",VQ-BCQ,18K,1,1,1,,2816,1135,33,31
+2011-11-06,LH2992,"Dusseldorf / Dusseldorf International (DUS/EDDL)","Moscow / Domodedovo (DME/UUDD)",14:36:00,00:00:00,04:14:00,"Lufthansa (LH/DLH)","Boeing 737 (B73X)",D-ABXY,16A,1,1,1,,763,3651,239,2009
+2011-11-03,LH2993,"Moscow / Domodedovo (DME/UUDD)","Dusseldorf / Dusseldorf International (DUS/EDDL)",21:46:00,00:00:00,02:00:00,"Lufthansa (LH/DLH)","Boeing 737 (B73X)",D-ABII,8F,1,1,1,,3651,763,239,2009
+2011-10-16,760,"Vladivostok / Vladivostok (VVO/UHWW)","Moscow / Sheremetyevo (SVO/UUEE)",14:15:00,00:00:00,08:55:00,"Aeroflot (SU/AFL)","Boeing 767-300ER (B763)",VP-BAX,21D,3,1,1,,3261,2816,33,2078
+2011-10-05,721,"Moscow / Sheremetyevo (SVO/UUEE)","Vladivostok / Vladivostok (VVO/UHWW)",17:10:00,00:00:00,08:25:00,"Aeroflot (SU/AFL)","Boeing 767-300ER (B763)",VP-BAV,12F,1,1,1,,2816,3261,33,2078
+2011-06-13,BT422,"Riga / Riga (RIX/EVRA)","Moscow / Sheremetyevo (SVO/UUEE)",19:10:00,00:00:00,01:32:00,"AirBaltic (BT/BTI)","Boeing 757-200 (B752)",YL-BDC,15A,1,1,1,,3623,2816,154,241
+2011-06-11,BT425,"Moscow / Sheremetyevo (SVO/UUEE)","Riga / Riga (RIX/EVRA)",09:05:00,00:00:00,01:45:00,"AirBaltic (BT/BTI)","Boeing 757-200 (B752)",YL-BDC,9F,1,1,1,,2816,3623,154,241
+2011-04-08,LH1450,"Frankfurt am Main / Frankfurt (FRA/EDDF)","Moscow / Domodedovo (DME/UUDD)",06:00:00,00:00:00,03:10:00,"Lufthansa (LH/DLH)","Airbus A320 (A320)",D-AIQL,,1,1,1,,919,3651,239,27
+2011-04-08,LH233,"Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)","Frankfurt am Main / Frankfurt (FRA/EDDF)",01:20:00,00:00:00,01:55:00,"Lufthansa (LH/DLH)","Airbus A321 (A321)",D-AISR,,1,1,1,,872,919,239,28
+2011-03-28,LH1908,"Munich / Franz Josef Strauss (MUC/EDDM)","Venice / Marco Polo (VCE/LIPZ)",11:05:00,00:00:00,01:05:00,"Lufthansa (LH/DLH)","Airbus A320 (A320)",D-AIPY,,0,1,1,,1952,3148,239,27
+2011-03-28,LH2531,"Moscow / Domodedovo (DME/UUDD)","Munich / Franz Josef Strauss (MUC/EDDM)",05:50:00,00:00:00,03:10:00,"Lufthansa (LH/DLH)","Airbus A320 (A320)",D-AIPY,,1,1,1,,3651,1952,239,27
+2011-01-10,SU528,"Shanghai / Pudong (PVG/ZSPD)","Moscow / Sheremetyevo (SVO/UUEE)",11:45:00,00:00:00,10:05:00,"Aeroflot (SU/AFL)","Airbus A330-200 (A332)",VP-BLX,,0,1,1,,3653,2816,33,30
+2011-01-08,MU2436,"Xiamen / Gaoqi (XMN/ZSAM)","Shanghai / Pudong (PVG/ZSPD)",06:50:00,00:00:00,01:40:00,"China Eastern Airlines (MU/CES)","Airbus A320 (A320)",,,1,1,1,,3285,3653,178,27
+2010-12-30,SU527,"Moscow / Sheremetyevo (SVO/UUEE)","Shanghai / Pudong (PVG/ZSPD)",08:05:00,00:00:00,08:40:00,"Aeroflot (SU/AFL)","Airbus A330-200 (A332)",VQ-BBG,,1,1,1,,2816,3653,33,30
+2010-11-07,LH2990,"Dusseldorf / Dusseldorf International (DUS/EDDL)","Moscow / Domodedovo (DME/UUDD)",10:00:00,00:00:00,03:20:00,"Lufthansa (LH/DLH)"," ()",,,0,1,1,,763,3651,239,0
+2010-11-04,LH2991,"Moscow / Domodedovo (DME/UUDD)","Dusseldorf / Dusseldorf International (DUS/EDDL)",04:10:00,00:00:00,03:35:00,"Lufthansa (LH/DLH)"," ()",,,0,1,1,,3651,763,239,0
+2010-09-25,KM0560,"Malta / Luqa (MLA/LMML)","Moscow / Domodedovo (DME/UUDD)",10:35:00,00:00:00,04:00:00,"Air Malta (KM/AMC)"," ()",,,3,1,1,,1863,3651,57,0
+2010-09-18,KM0577,"Moscow / Domodedovo (DME/UUDD)","Malta / Luqa (MLA/LMML)",05:35:00,00:00:00,04:15:00,"Air Malta (KM/AMC)"," ()",,,3,1,1,,3651,1863,57,0
+2010-03-08,183,"Krasnodar / Pashkovsky (KRR/URKK)","Moscow / Vnukovo (VKO/UUWW)",07:00:00,00:00:00,02:00:00,"Air Lines of Kuban (GW/KIL)","Yakovlev Yak-42 (YK42)",RA-42350,15D,3,1,1,,1493,3190,436,1986
+2010-03-06,136,"Moscow / Domodedovo (DME/UUDD)","Krasnodar / Pashkovsky (KRR/URKK)",10:05:00,00:00:00,02:00:00,"Air Lines of Kuban (GW/KIL)","Yakovlev Yak-42 (YK42)","RA-42406 G",15B,2,1,1,,3651,1493,436,1986
+2010-02-24,AB8394,"Dusseldorf / Dusseldorf International (DUS/EDDL)","Moscow / Domodedovo (DME/UUDD)",09:30:00,00:00:00,04:05:00,"Air Berlin (AB/BER)","Airbus A320 (A320)",D-ALTH,12F,1,1,1,,763,3651,125,27
+2010-02-19,AB8395,"Moscow / Domodedovo (DME/UUDD)","Dusseldorf / Dusseldorf International (DUS/EDDL)",03:45:00,00:00:00,02:15:00,"Air Berlin (AB/BER)","Boeing 737 (B73X)",D-ABBM,28F,1,1,1,,3651,763,125,2009
+2009-08-28,WU918,"Simferopol / Simferopol (SIP/UKFF)","Kiev / Borispol (KBP/UKBB)",12:55:00,00:00:00,01:25:00,"Wizz Air Ukraine (WU/WAU)","Airbus A320 (A320)",,,1,1,1,,2673,1388,1272,27
+2009-08-09,"XW 142","Kaliningrad / Khrabrovo (KGD/UMKK)","Moscow / Vnukovo (VKO/UUWW)",08:45:00,00:00:00,02:00:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",,,0,1,1,,1413,3190,1203,2009
+2009-08-07,"XW 141","Moscow / Vnukovo (VKO/UUWW)","Kaliningrad / Khrabrovo (KGD/UMKK)",21:30:00,00:00:00,02:05:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",VP-BOU,,0,1,1,,3190,1413,1203,2009
+2009-07-28,EK133,"Dubai / Dubai International (DXB/OMDB)","Moscow / Domodedovo (DME/UUDD)",10:15:00,00:00:00,05:10:00,"Emirates (EK/UAE)","Boeing 777-300 (B773)",A6-EMV,45A,1,1,1,,768,3651,807,247
+2009-07-27,EK307,"Beijing / Peking-Capital (PEK/ZBAA)","Dubai / Dubai International (DXB/OMDB)",11:55:00,00:00:00,09:10:00,"Emirates (EK/UAE)","Boeing 777-200LR (B77L)",A6-EWF,25A,1,1,1,,2292,768,807,2022
+2009-07-18,EK132,"Moscow / Domodedovo (DME/UUDD)","Dubai / Dubai International (DXB/OMDB)",12:40:00,00:00:00,05:15:00,"Emirates (EK/UAE)","Airbus A330-200 (A332)",A6-EAO,35K,1,1,1,,3651,768,807,30
+2009-07-18,EK304,"Dubai / Dubai International (DXB/OMDB)","Shanghai / Pudong (PVG/ZSPD)",10:35:00,00:00:00,08:50:00,"Emirates (EK/UAE)","Airbus A340-300 (A343)",A6-ERS,38A,1,1,1,,768,3653,807,34
+2008-12-14,"XW 102","St Petersburg / Pulkovo (LED/ULLI)","Moscow / Vnukovo (VKO/UUWW)",03:47:00,00:00:00,01:01:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",VP-BFJ,19B,2,1,1,"most good - 20A",1591,3190,1203,2009
+2008-11-17,"XW 202","Rostov-on-Don / Rostov-on-Don Airport (RVI/URRR)","Moscow / Vnukovo (VKO/UUWW)",05:10:00,00:00:00,01:45:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",VP-BOT,14E,2,1,1,,2553,3190,1203,2009
+2008-11-14,"S7 1147","Moscow / Vnukovo (VKO/UUWW)","Krasnodar / Pashkovsky (KRR/URKK)",07:15:00,00:00:00,02:05:00,"S7 Airlines (S7/SBI)","Airbus A310 (A310)",,13C,3,1,1,,3190,1493,680,24
+2008-08-02,"S7 176","Novosibirsk / Tolmachevo (OVB/UNNT)","Moscow / Domodedovo (DME/UUDD)",00:00:00,00:00:00,03:36:00,"S7 Airlines (S7/SBI)","Airbus A310 (A310)",,,0,1,1,,3678,3651,680,24
+2008-06-29,"XW 234","Sochi / Sochi (AER/URSS)","Moscow / Vnukovo (VKO/UUWW)",04:00:00,00:00:00,02:35:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",,,0,1,1,,52,3190,1203,2009
+2008-06-28,"XW 233","Moscow / Vnukovo (VKO/UUWW)","Sochi / Sochi (AER/URSS)",02:00:00,00:00:00,02:00:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",,,0,1,1,,3190,52,1203,2009
+2008-06-13,"XW 101","Moscow / Vnukovo (VKO/UUWW)","St Petersburg / Pulkovo (LED/ULLI)",12:40:00,00:00:00,01:10:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",,,0,1,1,,3190,1591,1203,2009
+2008-03-24,"SU 0892","Ufa / Ufa (UFA/UWUU)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,01:49:00,"Aeroflot (SU/AFL)","Boeing 737 (B73X)",,,0,1,1,,3081,2816,33,2009
+2008-03-20,"XW 323","Moscow / Vnukovo (VKO/UUWW)","Perm / Bolshoye Savino (PEE/USPP)",02:25:00,00:00:00,02:15:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",,,0,1,1,,3190,2289,1203,2009
+2008-03-06,"XW 301","Moscow / Vnukovo (VKO/UUWW)","Yekaterinburg / Koltsovo (SVX/USSS)",07:55:00,00:00:00,02:05:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",,,0,1,1,,3190,2823,1203,2009
+2008-01-03,"XW 107","Moscow / Vnukovo (VKO/UUWW)","St Petersburg / Pulkovo (LED/ULLI)",03:05:00,00:00:00,01:40:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",,,0,1,1,,3190,1591,1203,2009
+2007-11-26,"XW 142","Kaliningrad / Khrabrovo (KGD/UMKK)","Moscow / Vnukovo (VKO/UUWW)",08:45:00,00:00:00,02:00:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",,,0,1,1,,1413,3190,1203,2009
+2007-11-25,"XW 141","Moscow / Vnukovo (VKO/UUWW)","Kaliningrad / Khrabrovo (KGD/UMKK)",06:30:00,00:00:00,02:00:00,"Sky Express (XW/SXR)","Boeing 737 (B73X)",,,0,1,1,,3190,1413,1203,2009
+2007-05-18,,"Moscow / Bykovo (BKA/UUBB)","Nizhny Novgorod / Nizhny Novgorod (GOJ/UWGG)",00:00:00,00:00:00,00:54:00,"Centre-Avia Airlines (J7/CVC)","Yakovlev Yak-42 (YK42)",,,0,1,1,,4910,4514,213,1986
+2006-09-05,0,"Moscow / Domodedovo (DME/UUDD)","Antalya / Antalya (AYT/LTAI)",09:00:00,00:00:00,03:00:00,"Orenair (R2/ORB)","Boeing 737 (B73X)",,,0,1,1,,3651,207,1513,2009
+1990-01-01,,"Moscow / Vnukovo (VKO/UUWW)","Kaliningrad / Khrabrovo (KGD/UMKK)",00:00:00,00:00:00,01:41:00,"Aeroflot (SU/AFL)","Tupolev TU-154 (T154)",,,1,1,1,,3190,1413,33,1774
+2014-07-13,QD107,"Simferopol / Simferopol (SIP/UKFF)","Moscow / Sheremetyevo (SVO/UUEE)",22:27:00,00:00:00,01:02:00,"Dobrolet Airlines (G2/DOB)","Boeing 737 (B73X)",VQ-BTG,25E,3,1,1,,2673,2816,242,2009
+2014-07-11,QD107,"Moscow / Sheremetyevo (SVO/UUEE)","Simferopol / Simferopol (SIP/UKFF)",19:05:00,00:00:00,02:02:00,"Dobrolet Airlines (G2/DOB)","Boeing 737 (B73X)",VQ-BTG,29E,2,1,1,,2816,2673,242,2009
+2014-06-22,SU1195,"Kazan / Kazan (KZN/UWKD)","Moscow / Sheremetyevo (SVO/UUEE)",22:54:00,00:00:00,01:03:00,"Aeroflot (SU/AFL)","Sukhoi Superjet 100 (SU95)",RA-89015,12A,1,1,1,,1549,2816,33,2067
+2013-01-11,2P32,"Busuanga / Francisco B. Reyes (USU/RPVV)","Manila / Ninoy Aquino International (MNL/RPLL)",09:45:00,00:00:00,00:51:00,"Air Philippines Corporation (2P/GAP)","Bombardier Dash 8-400 (DH8D)",,,0,1,1,,3725,1898,944,610
+2013-01-08,2P33,"Manila / Ninoy Aquino International (MNL/RPLL)","Busuanga / Francisco B. Reyes (USU/RPVV)",13:50:00,00:00:00,00:55:00,"Air Philippines Corporation (2P/GAP)","Bombardier Dash 8-400 (DH8D)",,,0,1,1,,1898,3725,944,610
+2011-10-06,272,"Vladivostok / Vladivostok (VVO/UHWW)","Pyongyang / Sunan (FNJ/ZKPY)",19:00:00,00:00:00,01:40:00,"Air Koryo (JS/KOR)","Tupolev TU-204 (T204)",P-633,9F,3,1,1,,3261,908,444,1778
+2011-07-31,AO206,"Kaliningrad / Khrabrovo (KGD/UMKK)","Moscow / Sheremetyevo (SVO/UUEE)",12:35:00,00:00:00,01:45:00,"Avianova (AO/NET)","Boeing 737 (B73X)",EI-ELN,16A,1,1,1,,1413,2816,1174,2009
+2011-07-30,AO205,"Moscow / Sheremetyevo (SVO/UUEE)","Kaliningrad / Khrabrovo (KGD/UMKK)",06:20:00,00:00:00,01:50:00,"Avianova (AO/NET)","Boeing 737 (B73X)",EI-ELN,25F,1,1,1,,2816,1413,1174,2009
+2010-11-21,AO128,"Sochi / Sochi (AER/URSS)","Moscow / Sheremetyevo (SVO/UUEE)",09:00:00,00:00:00,02:10:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-ELE,23A,1,1,1,,52,2816,1174,27
+2010-11-20,AO127,"Moscow / Sheremetyevo (SVO/UUEE)","Sochi / Sochi (AER/URSS)",06:00:00,00:00:00,02:10:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-ELE,22F,1,1,1,,2816,52,1174,27
+2010-10-31,AO164,"Astrakhan / Astrakhan (ASF/URWA)","Moscow / Sheremetyevo (SVO/UUEE)",09:20:00,00:00:00,02:05:00,"Avianova (AO/NET)","Airbus A320 (A320)",,15A,1,1,1,,164,2816,1174,27
+2010-10-30,AO481,"Moscow / Sheremetyevo (SVO/UUEE)","Volgograd / Volgograd (VOG/URWW)",09:00:00,00:00:00,01:20:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-ELE,22F,1,1,1,,2816,3217,1174,27
+2010-08-08,AO138,"Krasnodar / Pashkovsky (KRR/URKK)","Moscow / Sheremetyevo (SVO/UUEE)",06:00:00,00:00:00,02:10:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-ELE,19B,3,1,1,,1493,2816,1174,27
+2010-07-04,AO146,"Gelendzhik / Gelendzhik (GDZ/URKG)","Moscow / Sheremetyevo (SVO/UUEE)",12:10:00,00:00:00,02:25:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-EEL,,1,1,1,,3938,2816,1174,27
+2010-07-02,AO155,"Moscow / Sheremetyevo (SVO/UUEE)","Rostov-on-Don / Rostov-on-Don Airport (RVI/URRR)",08:05:00,00:00:00,01:45:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-EEI,,1,1,1,,2816,2553,1174,27
+2010-06-27,AO422,"Samara / Kurumoch (KUF/UWWW)","Moscow / Sheremetyevo (SVO/UUEE)",08:50:00,00:00:00,01:25:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-ELN,4F,1,1,1,,1391,2816,1174,27
+2010-06-25,AO421,"Moscow / Sheremetyevo (SVO/UUEE)","Samara / Kurumoch (KUF/UWWW)",05:25:00,00:00:00,01:20:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-ELD,4A,1,1,1,,2816,1391,1174,27
+2010-06-12,AO295,"Moscow / Sheremetyevo (SVO/UUEE)","Arkhangelsk / Arkhangelsk (ARH/ULAA)",07:20:00,00:00:00,01:40:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-ELD,3F,1,1,1,,2816,3652,1174,27
+2010-06-06,AO136,"Krasnodar / Pashkovsky (KRR/URKK)","Moscow / Sheremetyevo (SVO/UUEE)",07:00:00,00:00:00,02:00:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-EEI,4B,3,1,1,,1493,2816,1174,27
+2010-06-04,AO135,"Moscow / Sheremetyevo (SVO/UUEE)","Krasnodar / Pashkovsky (KRR/URKK)",07:00:00,00:00:00,02:00:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-ELD,4E,2,1,1,,2816,1493,1174,27
+2010-04-04,AO497,"Moscow / Sheremetyevo (SVO/UUEE)","Ufa / Ufa (UFA/UWUU)",05:40:00,00:00:00,01:55:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-EEI,18F,1,1,1,,2816,3081,1174,27
+2009-11-10,AO156,"Rostov-on-Don / Rostov-on-Don Airport (RVI/URRR)","Moscow / Vnukovo (VKO/UUWW)",08:00:00,00:00:00,01:35:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-EEL,3E,2,1,1,,2553,3190,1174,27
+2009-09-10,AO155,"Moscow / Vnukovo (VKO/UUWW)","Rostov-on-Don / Rostov-on-Don Airport (RVI/URRR)",06:30:00,00:00:00,01:35:00,"Avianova (AO/NET)","Airbus A320 (A320)",EI-EEL,28E,2,1,1,,3190,2553,1174,27
+2008-09-20,"3G 9542","Sharm el Sheikh / Sharm el-Sheik Intl (SSH/HESH)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,03:56:00,"Atlant-Soyuz Airlines (3G/AYZ)","Ilyushin IL-86 (IL86)",,16B,2,1,1,,3630,3190,895,944
+2008-09-06,,"Moscow / Vnukovo (VKO/UUWW)","Sharm el Sheikh / Sharm el-Sheik Intl (SSH/HESH)",00:00:00,00:00:00,03:56:00,"Atlant-Soyuz Airlines (3G/AYZ)","Ilyushin IL-86 (IL86)",,,0,1,1,,3190,3630,895,944
+2007-08-20,,"Antalya / Antalya (AYT/LTAI)","Moscow / Domodedovo (DME/UUDD)",00:00:00,00:00:00,02:52:00,"VIM Airlines (NN/MOV)","Ilyushin IL-86 (IL86)",,,0,1,1,,207,3651,528,944
+2007-08-06,,"Moscow / Domodedovo (DME/UUDD)","Antalya / Antalya (AYT/LTAI)",00:00:00,00:00:00,02:52:00,"VIM Airlines (NN/MOV)","Ilyushin IL-86 (IL86)",,,0,1,1,,3651,207,528,944
+2006-09-12,,"Antalya / Antalya (AYT/LTAI)","Moscow / Domodedovo (DME/UUDD)",03:00:00,00:00:00,02:00:00,"S7 Airlines (S7/SBI)","Ilyushin IL-86 (IL86)",,,0,1,1,,207,3651,680,944
+2011-10-13,271,"Pyongyang / Sunan (FNJ/ZKPY)","Vladivostok / Vladivostok (VVO/UHWW)",08:15:00,00:00:00,01:50:00,"Air Koryo (JS/KOR)","Tupolev TU-154 (T154)",P-561,,2,1,1,,908,3261,444,1774
+2011-06-13,BT362,"Tallinn / Ulemiste (TLL/EETN)","Riga / Riga (RIX/EVRA)",17:50:00,00:00:00,00:51:00,"AirBaltic (BT/BTI)","Bombardier Dash 8-400 (DH8D)",YL-BAJ,10A,1,1,1,,2956,3623,154,610
+2011-06-11,BT317,"Riga / Riga (RIX/EVRA)","Tallinn / Ulemiste (TLL/EETN)",18:20:00,00:00:00,01:10:00,"AirBaltic (BT/BTI)","Bombardier Dash 8-400 (DH8D)",YL-BAQ,10A,1,1,1,,3623,2956,154,610
+2015-01-11,TK419,"Istanbul / Ataturk (IST/LTBA)","Moscow / Vnukovo (VKO/UUWW)",23:37:00,00:00:00,01:20:00,"Turkish Airlines (TK/THY)","Airbus A321 (A321)",TC-JMH,,1,1,1,,1284,3190,769,28
+2015-01-11,TK65,"Bangkok / Suvarnabhumi (BKK/VTBS)","Istanbul / Ataturk (IST/LTBA)",11:42:00,00:00:00,10:56:00,"Turkish Airlines (TK/THY)","Airbus A330 (A330)",TC-JNH,,1,1,1,,331,1284,769,29
+2015-01-10,FD619,"Siem Reap / Angkor Wat (REP/VDSR)","Bangkok / Don Mueang International (DMK/VTBD)",12:56:00,00:00:00,00:43:00,"Thai AirAsia (FD/AIQ)","Airbus A320 (A320)",HS-ABA,,0,1,1,,2502,3565,1077,27
+2015-01-08,FD618,"Bangkok / Don Mueang International (DMK/VTBD)","Siem Reap / Angkor Wat (REP/VDSR)",20:32:00,00:00:00,00:42:00,"Thai AirAsia (FD/AIQ)","Airbus A320 (A320)",hs-aby,,1,1,1,,3565,2502,1077,27
+2015-01-08,DD7507,"Phuket / Phuket (HKT/VTSP)","Bangkok / Don Mueang International (DMK/VTBD)",15:25:00,00:00:00,01:28:00,"Nok Air (DD/NOK)","Boeing 737 (B73X)",HS-DBL,,1,1,1,,1137,3565,1244,2009
+2015-01-05,FD3013,"Bangkok / Don Mueang International (DMK/VTBD)","Phuket / Phuket (HKT/VTSP)",20:39:00,00:00:00,01:01:00,"Thai AirAsia (FD/AIQ)","Airbus A320 (A320)",HS-BBE,,1,1,1,,3565,1137,1077,27
+2014-12-30,TK64,"Istanbul / Ataturk (IST/LTBA)","Bangkok / Suvarnabhumi (BKK/VTBS)",21:13:00,00:00:00,08:29:00,"Turkish Airlines (TK/THY)","Airbus A330 (A330)",,,3,1,1,,1284,331,769,29
+2014-12-29,TK416,"Moscow / Vnukovo (VKO/UUWW)","Istanbul / Ataturk (IST/LTBA)",22:18:00,00:00:00,03:44:00,"Turkish Airlines (TK/THY)","Airbus A321 (A321)",TC-JSG,,1,1,1,,3190,1284,769,28
+2014-02-24,UT580,"Sochi / Sochi (AER/URSS)","Moscow / Vnukovo (VKO/UUWW)",06:40:00,00:00:00,02:10:00,"UTair Aviation (UT/UTA)","Boeing 737 (B73X)",,,0,1,1,,52,3190,778,2009
+2017-08-27,LH1448,"Frankfurt am Main / Frankfurt (FRA/EDDF)","Moscow / Domodedovo (DME/UUDD)",12:55:00,17:00:00,03:05:00,"Lufthansa (LH/DLH)","Airbus A320 (A320)",DAIPZ,,1,1,1,,919,3651,239,27
+2017-08-26,LH457,"Los Angeles / Los Angeles International (LAX/KLAX)","Frankfurt am Main / Frankfurt (FRA/EDDF)",15:20:00,11:20:00,11:00:00,"Lufthansa (LH/DLH)","Airbus A380-800 (A388)",DAIME,,1,1,1,,1559,919,239,39
+2017-08-12,OS606,"Moscow / Domodedovo (DME/UUDD)","Vienna / Schwechat (VIE/LOWW)",06:30:00,08:20:00,02:50:00,"Austrian Airlines (OS/AUA)","Airbus A320-200 (A320)",,,1,1,1,,3651,3179,87,2059
+2017-08-12,OS81,"Vienna / Schwechat (VIE/LOWW)","Los Angeles / Los Angeles International (LAX/KLAX)",10:00:00,13:30:00,12:30:00,"Austrian Airlines (OS/AUA)","Boeing 777-200 (B772)",,,1,1,1,,3179,1559,87,246
+2017-08-16,WN1413,"San Francisco / San Francisco International (SFO/KSFO)","Portland / Portland (PDX/KPDX)",08:15:00,09:55:00,01:40:00,"Southwest Airlines (WN/SWA)","Boeing 737-700 (B737)",N7856A,,1,1,1,,2644,2287,736,230
+2017-08-25,NK991,"Portland / Portland (PDX/KPDX)","Los Angeles / Los Angeles International (LAX/KLAX)",14:49:00,17:13:00,02:24:00,"Spirit Airlines (NK/NKS)","Airbus A319 (A319)",N535NK,,1,1,1,,2287,1559,565,26
+2017-10-28,TK1410,"Vilnius / Vilnius (VNO/EYVI)","Istanbul / Ataturk (IST/LTBA)",10:40:00,14:25:00,02:45:00,"Turkish Airlines (TK/THY)","Boeing 737-900 (B739)",TC-JYC,,1,1,1,,3600,1284,769,232
+2017-10-29,TK1449,"Istanbul / Ataturk (IST/LTBA)","Porto / Francisco Sa Carneiro (OPO/LPPR)",09:35:00,11:25:00,04:50:00,"Turkish Airlines (TK/THY)","Boeing 737-800 (B738)",TC-JHP,3A,1,2,1,,1284,2202,769,231
+2017-11-06,TK1756,"Lisbon / Portela (LIS/LPPT)","Istanbul / Ataturk (IST/LTBA)",11:20:00,19:15:00,04:55:00,"Turkish Airlines (TK/THY)","Boeing 737-800 (B738)",TC-JHF,,1,1,1,,1632,1284,769,231
+2017-11-07,TK419,"Istanbul / Ataturk (IST/LTBA)","Moscow / Vnukovo (VKO/UUWW)",00:35:00,03:30:00,02:55:00,"Turkish Airlines (TK/THY)","Airbus A321 (A321)",TC-JRC,10B,2,1,1,,1284,3190,769,28
+2017-11-11,UT577,"Moscow / Vnukovo (VKO/UUWW)","Murmansk / Murmansk (MMK/ULMM)",01:55:00,04:20:00,02:25:00,"UTair Aviation (UT/UTA)","Boeing 737-500 (B735)",VQ-BJT,3D,3,1,1,,3190,1883,778,228
+2017-11-11,UT582,"Murmansk / Murmansk (MMK/ULMM)","Moscow / Vnukovo (VKO/UUWW)",20:40:00,23:05:00,02:25:00,"UTair Aviation (UT/UTA)","Boeing 737-500 (B735)",VP-BFW,19A,1,1,1,,1883,3190,778,228
+2017-11-18,UT577,"Moscow / Vnukovo (VKO/UUWW)","Murmansk / Murmansk (MMK/ULMM)",01:55:00,04:20:00,02:25:00,"UTair Aviation (UT/UTA)","Boeing 737-500 (B735)",VQ-BJU,21F,1,1,1,,3190,1883,778,228
+2017-11-20,UT582,"Murmansk / Murmansk (MMK/ULMM)","Moscow / Vnukovo (VKO/UUWW)",20:40:00,23:05:00,02:25:00,"UTair Aviation (UT/UTA)","Boeing 737-500 (B735)",VQ-BJN,21A,1,1,1,"Aurora flight",1883,3190,778,228
+2017-12-16,IG822,"Moscow / Domodedovo (DME/UUDD)","Milan / Malpensa (MXP/LIMC)",13:15:00,14:50:00,03:35:00,"Meridiana (IG/ISS)","Boeing 737-800 (B738)",EI-FLM,11F,1,1,1,,3651,1983,396,231
+2017-12-17,A3671,"Venice / Marco Polo (VCE/LIPZ)","Athens / Eleftherios Venizelos (ATH/LGAV)",15:35:00,18:45:00,02:10:00,"Aegean Airlines (A3/AEE)","Airbus A320-200 (A320)",SX-DVI,28F,1,1,1,,3148,3583,24,2059
+2017-12-17,A3972,"Athens / Eleftherios Venizelos (ATH/LGAV)","Moscow / Domodedovo (DME/UUDD)",23:30:00,04:10:00,03:40:00,"Aegean Airlines (A3/AEE)","Airbus A320 (A320)",SX-DNE,12A,1,1,1,,3583,3651,24,27
+2017-12-31,U67029,"Moscow / Domodedovo (DME/UUDD)","Larnaca / Larnaca (LCA/LCLK)",10:10:00,13:00:00,03:50:00,"Ural Airlines (U6/SVR)","Airbus A320 (A320)",VP-BTZ,11F,1,1,1,,3651,1572,740,27
+2018-01-07,U67030,"Larnaca / Larnaca (LCA/LCLK)","Moscow / Domodedovo (DME/UUDD)",13:50:00,18:40:00,03:50:00,"Ural Airlines (U6/SVR)","Airbus A320 (A320)",VQ-BGI,17A,1,1,1,,1572,3651,740,27
+2018-03-01,TK420,"Moscow / Vnukovo (VKO/UUWW)","Istanbul / Ataturk (IST/LTBA)",04:25:00,07:30:00,03:05:00,"Turkish Airlines (TK/THY)","Boeing 737-800 (B738)",TC-JHM,,1,1,1,,3190,1284,769,231
+2018-03-01,TK9,"Istanbul / Ataturk (IST/LTBA)","Los Angeles / Los Angeles International (LAX/KLAX)",13:40:00,17:50:00,14:10:00,"Turkish Airlines (TK/THY)","Boeing 777-300ER (B77W)",TC-LJA,,1,1,1,,1284,1559,769,2023
+2018-03-11,TK10,"Los Angeles / Los Angeles International (LAX/KLAX)","Istanbul / Ataturk (IST/LTBA)",19:30:00,18:35:00,13:05:00,"Turkish Airlines (TK/THY)","Boeing 777-300ER (B77W)",TC-JJZ,,1,1,1,,1559,1284,769,2023
+2018-03-13,TK419,"Istanbul / Ataturk (IST/LTBA)","Moscow / Vnukovo (VKO/UUWW)",00:35:00,03:30:00,02:55:00,"Turkish Airlines (TK/THY)","Boeing 737-800 (B738)",TC-JVG,,1,1,1,,1284,3190,769,231
+2017-07-24,SU2121,"Kaunas / Kaunas (KUN/EYKA)","Moscow / Sheremetyevo (SVO/UUEE)",05:05:00,00:00:00,01:20:00,"Aeroflot (SU/AFL)"," ()",VQ-BAX,23A,1,1,1,,3627,2816,33,0
+2017-07-23,W68089,"Keflavik / Keflavik (KEF/BIKF)","Kaunas / Kaunas (KUN/EYKA)",20:21:00,00:00:00,03:29:00,"Wizz Air Bulgaria (8Z/WVL)"," ()",HA-LYJ,29B,2,1,1,,1400,3627,1274,0
+2017-07-16,W68089,"Kaunas / Kaunas (KUN/EYKA)","Keflavik / Keflavik (KEF/BIKF)",18:22:00,00:00:00,03:47:00,"Wizz Air Bulgaria (8Z/WVL)"," ()",HA-LYJ,,2,1,1,,3627,1400,1274,0
+2017-03-12,U62842,"Simferopol / Simferopol (SIP/UKFF)","Moscow / Domodedovo (DME/UUDD)",20:33:00,00:00:00,02:09:00,"Ural Airlines (U6/SVR)"," ()",vq-bag,25A,1,1,1,,2673,3651,740,0
+2017-03-10,SU6147,"Moscow / Vnukovo (VKO/UUWW)","Simferopol / Simferopol (SIP/UKFF)",18:29:00,00:00:00,02:09:00,"Aeroflot (SU/AFL)"," ()",vp-bus,7a,1,1,1,,3190,2673,33,0
+2017-03-04,UT879,"Moscow / Vnukovo (VKO/UUWW)","Yerevan / Zvartnots (EVN/UDYZ)",03:04:00,00:00:00,02:49:00,"UTair Aviation (UT/UTA)"," ()",VQ-BJN,7F,1,1,1,,3190,3593,778,0
+2017-02-27,TK419,"Istanbul / Ataturk (IST/LTBA)","Moscow / Vnukovo (VKO/UUWW)",01:11:00,00:00:00,02:20:00,"Turkish Airlines (TK/THY)"," ()",TC-JYL,,0,1,1,,1284,3190,769,0
+2017-02-26,TK1450,"Porto / Francisco Sa Carneiro (OPO/LPPR)","Istanbul / Ataturk (IST/LTBA)",12:47:00,00:00:00,04:02:00,"Turkish Airlines (TK/THY)"," ()",TC-JVF,,1,1,1,,2202,1284,769,0
+2017-02-18,TK1755,"Istanbul / Ataturk (IST/LTBA)","Lisbon / Portela (LIS/LPPT)",09:39:00,00:00:00,04:35:00,"Turkish Airlines (TK/THY)"," ()",TC-JVC,,1,1,1,,1284,1632,769,0
+2017-02-17,TK416,"Moscow / Vnukovo (VKO/UUWW)","Istanbul / Ataturk (IST/LTBA)",21:56:00,00:00:00,02:36:00,"Turkish Airlines (TK/THY)"," ()",TC-JMI,,1,1,1,,3190,1284,769,0
+2017-01-15,CA909,"Beijing / Peking-Capital (PEK/ZBAA)","Moscow / Sheremetyevo (SVO/UUEE)",14:30:00,00:00:00,07:43:00,"Air China (CA/CCA)"," ()",B-6073,42L,1,1,1,,2292,2816,172,0
+2017-01-15,CA904,"Hochiminh / Tan Son Nhat (SGN/VVTS)","Beijing / Peking-Capital (PEK/ZBAA)",05:41:00,00:00:00,04:37:00,"Air China (CA/CCA)"," ()",B-5227,24a,1,1,1,,2650,2292,172,0
+2017-01-13,BL268,"Phu Quoc / Duong Dang (PQC/VVPQ)","Hochiminh / Tan Son Nhat (SGN/VVTS)",21:29:00,00:00:00,00:50:00,"Pacific Airlines (BL/PIC)"," ()",VN-A560,6A,1,1,1,,3663,2650,610,0
+2016-12-30,CA809,"Beijing / Peking-Capital (PEK/ZBAA)","Bangkok / Suvarnabhumi (BKK/VTBS)",00:15:00,00:00:00,05:34:00,"Air China (CA/CCA)"," ()",,,1,1,1,,2292,331,172,0
+2016-12-28,CA910,"Moscow / Sheremetyevo (SVO/UUEE)","Beijing / Peking-Capital (PEK/ZBAA)",19:06:00,00:00:00,07:51:00,"Air China (CA/CCA)"," ()",,56A,1,1,1,,2816,2292,172,0
+2018-04-28,SU122,"Moscow / Sheremetyevo (SVO/UUEE)","New York / John F Kennedy (JFK/KJFK)",19:50:00,23:37:00,10:47:00,"Aeroflot (SU/AFL)","Airbus A330-300 (A333)",VQ-BEK,,1,1,1,,2816,1328,33,31
+2018-05-02,SU103,"New York / John F Kennedy (JFK/KJFK)","Moscow / Sheremetyevo (SVO/UUEE)",19:10:00,11:20:00,09:10:00,"Aeroflot (SU/AFL)","Boeing 777-300ER (B77W)",VQ-BIL,,1,1,1,,1328,2816,33,2023
+2018-05-19,S7263,"Moscow / Domodedovo (DME/UUDD)","Simferopol / Simferopol (SIP/UKFF)",05:15:00,07:50:00,02:35:00,"S7 Airlines (S7/SBI)","Boeing 737-800 (B738)",VP-BQF,24A,1,1,1,,3651,2673,680,231
+2018-05-20,U62842,"Simferopol / Simferopol (SIP/UKFF)","Moscow / Domodedovo (DME/UUDD)",20:35:00,23:05:00,02:30:00,"Ural Airlines (U6/SVR)","Airbus A321 (A321)",VQ-BOB,34A,1,1,1,,2673,3651,740,28
+2018-10-04,DP259,"Moscow / Vnukovo (VKO/UUWW)","Surgut / Surgut (SGC/USRR)",23:45:00,04:55:00,03:10:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VP-BPJ,31A,1,1,1,,3190,2648,2058,231
+2018-10-08,DP260,"Surgut / Surgut (SGC/USRR)","Moscow / Vnukovo (VKO/UUWW)",06:00:00,07:20:00,03:20:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VP-BQB,31A,1,1,1,,2648,3190,2058,231
+2018-10-12,DP425,"Moscow / Vnukovo (VKO/UUWW)","Irkutsk / Irkutsk (IKT/UIII)",21:06:00,07:50:00,05:44:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VQ-BTS,31A,1,1,1,,3190,1227,2058,231
+2018-10-13,DP425,"Irkutsk / Irkutsk (IKT/UIII)","Ulan-Ude / Mukhino (UUD/UIUU)",09:16:00,09:45:00,00:29:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VQ-BTS,31A,1,1,1,,1227,3120,2058,231
+2018-10-15,DP426,"Ulan-Ude / Mukhino (UUD/UIUU)","Moscow / Vnukovo (VKO/UUWW)",13:00:00,14:00:00,06:00:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VQ-BTH,30F,1,1,1,,3120,3190,2058,231
+2018-10-18,DP425,"Moscow / Vnukovo (VKO/UUWW)","Ulan-Ude / Mukhino (UUD/UIUU)",20:40:00,07:35:00,05:55:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VQ-BTS,28A,1,1,1,,3190,3120,2058,231
+2018-10-21,DP426,"Ulan-Ude / Mukhino (UUD/UIUU)","Moscow / Vnukovo (VKO/UUWW)",08:05:00,09:45:00,06:40:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VQ-BTG,30A,1,1,1,,3120,3190,2058,231
+2018-10-26,DP181,"Moscow / Vnukovo (VKO/UUWW)","Volgograd / Volgograd (VOG/URWW)",19:30:00,21:10:00,01:40:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VP-BQC,12E,2,1,1,,3190,3217,2058,231
+2018-10-27,DP182,"Volgograd / Volgograd (VOG/URWW)","Moscow / Vnukovo (VKO/UUWW)",21:35:00,23:20:00,01:45:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VQ-BTI,12A,1,1,1,"no window",3217,3190,2058,231
+2016-12-17,PBD806,"Bergamo / Orio Al Serio (BGY/LIME)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,03:15:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTE,23D,3,1,1,,293,3190,2058,2009
+2016-12-16,PBD805,"Moscow / Vnukovo (VKO/UUWW)","Bergamo / Orio Al Serio (BGY/LIME)",00:00:00,00:00:00,03:01:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTC,6B,2,1,1,,3190,293,2058,2009
+2016-12-11,PBD422,"Samara / Kurumoch (KUF/UWWW)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,01:37:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BWG,26A,1,1,1,"Хорошее место",1391,3190,2058,2009
+2016-12-11,PBD834,"Almaty / Almaty (ALA/UAAA)","Samara / Kurumoch (KUF/UWWW)",00:00:00,00:00:00,03:20:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BWG,17A,1,1,1,"Плохое место",100,1391,2058,2009
+2016-12-09,PBD833,"Samara / Kurumoch (KUF/UWWW)","Almaty / Almaty (ALA/UAAA)",00:00:00,00:00:00,02:53:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTD,17A,1,1,2,"Плохое место",1391,100,2058,2009
+2016-12-09,PBD421,"Moscow / Vnukovo (VKO/UUWW)","Samara / Kurumoch (KUF/UWWW)",00:00:00,00:00:00,01:22:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTD,26F,1,1,1,.,3190,1391,2058,2009
+2016-12-04,PBD175,"Magas / Magas Airport (IGT/URMS)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,02:14:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTI,9D,3,1,1,,7981,3190,2058,2009
+2016-12-03,PBD195,"Moscow / Vnukovo (VKO/UUWW)","Vladikavkaz / Beslan (OGZ/URMO)",00:00:00,00:00:00,02:02:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BWG,30F,1,1,1,.,3190,4858,2058,2009
+2016-11-08,SU2415,"Milan / Malpensa (MXP/LIMC)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,02:41:00," (/)","Airbus A321 (A321)",VQ-BEA,10,1,1,1,,1983,2816,0,28
+2016-11-05,AZ595,"Moscow / Sheremetyevo (SVO/UUEE)","Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)",00:00:00,00:00:00,03:26:00,"Alitalia (AZ/AZA)","Airbus A320 (A320)",EI-DTB,22,3,1,1,,2816,872,105,27
+2016-11-05,AZ1467,"Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)","Venice / Marco Polo (VCE/LIPZ)",00:00:00,00:00:00,00:40:00,"Alitalia (AZ/AZA)"," ()",EI-RDB,8F,1,1,1,,872,3148,105,0
+2016-07-24,SU1731,"Petropavlovsk-Kamchatsky / Yelizovo (PKC/UHPP)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,08:05:00," (/)","Boeing 777 (B777)",VQ-BUB,48K,1,1,1,,2326,2816,0,2012
+2016-07-17,SU1730,"Moscow / Sheremetyevo (SVO/UUEE)","Petropavlovsk-Kamchatsky / Yelizovo (PKC/UHPP)",00:00:00,00:00:00,08:53:00," (/)","Boeing 777 (B777)",VP-BGB,44A,1,1,1,,2816,2326,0,2012
+2016-05-30,ZF7766,"Iraklion / Nikos Kazantzakis (HER/LGIR)","Moscow / Domodedovo (DME/UUDD)",00:00:00,00:00:00,03:54:00," (/)","Boeing 757 (B757)",VP-BAS,11E,1,1,1,,1112,3651,0,2010
+2016-05-27,ZF7765,"Moscow / Domodedovo (DME/UUDD)","Iraklion / Nikos Kazantzakis (HER/LGIR)",00:00:00,00:00:00,03:47:00," (/)","Boeing 757 (B757)",VP-BPB,38A,1,1,1,,3651,1112,0,2010
+2016-04-18,TK1840,"Istanbul / Ataturk (IST/LTBA)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,02:39:00,"Turkish Airlines (TK/THY)","Airbus A321 (A321)",TC-JSM,30A,1,1,1,,1284,3190,769,28
+2016-04-17,TK1840,"Venice / Marco Polo (VCE/LIPZ)","Istanbul / Sabiha Gokcen (SAW/LTFJ)",00:00:00,00:00:00,02:15:00,"Turkish Airlines (TK/THY)","Boeing 737 (B73X)",TC-JFE,26A,1,1,1,,3148,3659,769,2009
+2016-04-16,PBD805,"Moscow / Vnukovo (VKO/UUWW)","Bergamo / Orio Al Serio (BGY/LIME)",00:00:00,00:00:00,03:24:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BWH,26F,1,1,1,,3190,293,2058,2009
+2016-03-13,SQ62,"Singapore / Changi (SIN/WSSS)","Moscow / Domodedovo (DME/UUDD)",00:00:00,00:00:00,10:15:00,"Singapore Airlines (SQ/SIA)","Boeing 777 (B777)",9V-SWD,56A,1,1,1,,2672,3651,703,2012
+2016-03-12,MI273,"Manado / Sam Ratulangi (MDC/WAMM)","Singapore / Changi (SIN/WSSS)",00:00:00,00:00:00,03:03:00,"SilkAir (MI/SLK)","Airbus A320 (A320)",9V-SLL,8A,1,1,1,,1776,2672,713,27
+2016-03-10,IW1171,"Ternate / Babullah (TTE/WAMT)","Manado / Sam Ratulangi (MDC/WAMM)",00:00:00,00:00:00,01:00:00,"Wings Air (IW/WON)","ATR 72 (AT7X)",PK-WHL,3F,1,1,1,,3030,1776,1427,2032
+2016-03-08,IW1170,"Manado / Sam Ratulangi (MDC/WAMM)","Ternate / Babullah (TTE/WAMT)",00:00:00,00:00:00,00:51:00,"Wings Air (IW/WON)","ATR 72 (AT7X)",PK-WHL,5A,1,1,1,,1776,3030,1427,2032
+2016-02-27,MI274,"Singapore / Changi (SIN/WSSS)","Manado / Sam Ratulangi (MDC/WAMM)",00:00:00,00:00:00,03:13:00,"SilkAir (MI/SLK)","Airbus A320 (A320)",9V-SLM,6F,1,1,1,,2672,1776,713,27
+2016-02-26,SQ61,"Moscow / Domodedovo (DME/UUDD)","Singapore / Changi (SIN/WSSS)",00:00:00,00:00:00,13:16:00,"Singapore Airlines (SQ/SIA)","Boeing 777 (B777)",9V-SWQ,52A,1,1,1,,3651,2672,703,2012
+2016-02-23,S7166,"Simferopol / Simferopol (SIP/UKFF)","Moscow / Domodedovo (DME/UUDD)",00:00:00,00:00:00,01:00:00,"S7 Airlines (S7/SBI)","Boeing 737 (B73X)",VQ-BVL,3F,1,2,1,,2673,3651,680,2009
+2016-02-21,S7163,"Moscow / Domodedovo (DME/UUDD)","Simferopol / Simferopol (SIP/UKFF)",00:00:00,00:00:00,03:02:00,"S7 Airlines (S7/SBI)","Boeing 737 (B73X)",VP-BND,3F,1,2,1,,3651,2673,680,2009
+2016-02-14,PBD802,"Bratislava / MR Stefanik (BTS/LZIB)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,02:15:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BWI,10A,1,1,1,,424,3190,2058,2009
+2016-02-12,PBD801,"Moscow / Vnukovo (VKO/UUWW)","Bratislava / MR Stefanik (BTS/LZIB)",00:00:00,00:00:00,02:19:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTS,5F,1,1,1,,3190,424,2058,2009
+2016-01-24,PBD806,"Bergamo / Orio Al Serio (BGY/LIME)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,03:15:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BWG,5A,1,1,1,"отличное место",293,3190,2058,2009
+2016-01-22,PBD805,"Moscow / Vnukovo (VKO/UUWW)","Bergamo / Orio Al Serio (BGY/LIME)",00:00:00,00:00:00,03:03:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BWG,27A,1,1,1,"окно не там",3190,293,2058,2009
+2016-01-18,DP198,"Magas / Magas Airport (IGT/URMS)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,02:20:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTC,13F,1,1,1,,7981,3190,2058,2009
+2016-01-17,DP195,"Moscow / Vnukovo (VKO/UUWW)","Vladikavkaz / Beslan (OGZ/URMO)",00:00:00,00:00:00,02:05:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTD,32D,3,1,1,,3190,4858,2058,2009
+2016-01-10,TK417,"Istanbul / Ataturk (IST/LTBA)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,02:26:00,"Turkish Airlines (TK/THY)","Airbus A320 (A320)",TC-JYM,20A,1,1,1,,1284,3190,769,27
+2016-01-09,TK85,"Manila / Ninoy Aquino International (MNL/RPLL)","Istanbul / Ataturk (IST/LTBA)",00:00:00,00:00:00,13:08:00,"Turkish Airlines (TK/THY)","Boeing 777 (B777)",TC-LJB,2E,2,2,1,,1898,1284,769,2012
+2016-01-03,DG6241,"Manila / Ninoy Aquino International (MNL/RPLL)","Malay / Godofredo P. Ramos (MPH/RPVE)",00:00:00,00:00:00,00:53:00,"SEAir (DG/SRQ)","ATR 72 (AT7X)",,12C,3,1,1,,1898,3693,724,2032
+2016-01-03,DG6234,"Malay / Godofredo P. Ramos (MPH/RPVE)","Manila / Ninoy Aquino International (MNL/RPLL)",00:00:00,00:00:00,00:53:00,"SEAir (DG/SRQ)","ATR 72 (AT7X)",,15B,3,1,1,,3693,1898,724,2032
+2016-01-02,TK84,"Istanbul / Ataturk (IST/LTBA)","Manila / Ninoy Aquino International (MNL/RPLL)",00:00:00,00:00:00,09:55:00,"Turkish Airlines (TK/THY)","Boeing 777 (B777)",,81A,1,1,1,,1284,1898,769,2012
+2016-01-01,TK418,"Moscow / Vnukovo (VKO/UUWW)","Istanbul / Ataturk (IST/LTBA)",00:00:00,00:00:00,02:20:00,"Turkish Airlines (TK/THY)","Boeing 737 (B73X)",,,1,1,1,,3190,1284,769,2009
+2015-11-01,DP246,"Syktyvkar / Syktyvkar (SCW/UUYY)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,01:38:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BWH,23A,0,1,1,"seat - ok",2612,3190,2058,2009
+2015-10-30,DP245,"Moscow / Vnukovo (VKO/UUWW)","Syktyvkar / Syktyvkar (SCW/UUYY)",00:00:00,00:00:00,01:47:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BWH,23A,1,1,1,"seat - ok",3190,2612,2058,2009
+2015-10-18,SU5368,"Simferopol / Simferopol (SIP/UKFF)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,01:22:00,"Aeroflot-Don (D9/DNV)","Airbus A319 (A319)",VP-BNJ,6F,1,1,1,,2673,3190,1539,26
+2015-10-16,SU1626,"Moscow / Sheremetyevo (SVO/UUEE)","Simferopol / Simferopol (SIP/UKFF)",00:00:00,00:00:00,03:05:00," (/)","Airbus A330 (A330)",VQ-BMV,28A,1,1,1,,2816,2673,0,29
+2015-10-12,SU1431,"Barnaul / Barnaul (BAX/UNBB)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,04:05:00," (/)","Airbus A321 (A321)",VP-BQR,,0,1,1,,222,2816,0,28
+2015-10-04,S768,"Kaliningrad / Khrabrovo (KGD/UMKK)","Moscow / Domodedovo (DME/UUDD)",00:00:00,00:00:00,01:49:00,"S7 Airlines (S7/SBI)","Boeing 737 (B73X)",VP-BDF,8A,1,1,1,"NO WINDOW!",1413,3651,680,2009
+2015-10-03,SU1002,"Moscow / Sheremetyevo (SVO/UUEE)","Kaliningrad / Khrabrovo (KGD/UMKK)",00:00:00,00:00:00,01:40:00," (/)","Airbus A320 (A320)",VP-BKX,18A,1,1,1,,2816,1413,0,27
+2015-09-06,KTK3312,"Antalya / Antalya (AYT/LTAI)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,03:00:00," (/)","Boeing 767 (B767)",VQ-BSX,35H,1,1,1,,207,2816,0,2011
+2015-08-29,KTK3087,"Moscow / Domodedovo (DME/UUDD)","Antalya / Antalya (AYT/LTAI)",00:00:00,00:00:00,03:09:00," (/)","Boeing 767 (B767)",VQ-BUO,6H,1,1,1,,3651,207,0,2011
+2015-08-16,S768,"Kaliningrad / Khrabrovo (KGD/UMKK)","Moscow / Domodedovo (DME/UUDD)",00:00:00,00:00:00,01:46:00,"S7 Airlines (S7/SBI)","Boeing 737 (B73X)",VQ-BKV,,1,1,1,,1413,3651,680,2009
+2015-08-14,UT329,"Moscow / Domodedovo (DME/UUDD)","Kaliningrad / Khrabrovo (KGD/UMKK)",00:00:00,00:00:00,01:37:00,"UTair Aviation (UT/UTA)","Boeing 737 (B73X)",VP-BVN,,1,1,1,,3651,1413,778,2009
+2015-05-31,SU1304,"Mineralnyye Vody / Mineralnyye Vody (MRV/URMM)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,01:52:00," (/)","Airbus A320 (A320)",VP-BZO,22A,1,1,1,,1930,2816,0,27
+2015-05-30,SU1304,"Moscow / Sheremetyevo (SVO/UUEE)","Mineralnyye Vody / Mineralnyye Vody (MRV/URMM)",00:00:00,00:00:00,02:05:00," (/)","Airbus A321 (A321)",VP-BDC,12A,1,1,1,,2816,1930,0,28
+2015-05-15,PBD447,"Tyumen / Roshchino (TJM/USTR)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,02:30:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTD,10C,3,1,1,,3704,3190,2058,2009
+2015-05-15,PBD447,"Moscow / Vnukovo (VKO/UUWW)","Tyumen / Roshchino (TJM/USTR)",00:00:00,00:00:00,02:23:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTE,29E,2,1,1,,3190,3704,2058,2009
+2015-05-04,AZ596,"Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,03:12:00,"Alitalia (AZ/AZA)","Airbus A321 (A321)",,,0,1,1,,872,2816,105,28
+2015-05-04,AZ91,"Malaga / Costa Del Sol (AGP/LEMG)","Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)",00:00:00,00:00:00,02:01:00,"Alitalia (AZ/AZA)","Airbus A321 (A321)",,,0,1,1,,66,872,105,28
+2015-04-24,AZ90,"Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)","Malaga / Costa Del Sol (AGP/LEMG)",00:00:00,00:00:00,02:25:00,"Alitalia (AZ/AZA)","Airbus A319 (A319)",,,0,1,1,,872,66,105,26
+2015-04-24,AZ595,"Moscow / Sheremetyevo (SVO/UUEE)","Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)",00:00:00,00:00:00,03:36:00,"Alitalia (AZ/AZA)","Airbus A320 (A320)",,,0,1,1,,2816,872,105,27
+2015-03-29,SU1631,"Simferopol / Simferopol (SIP/UKFF)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,01:17:00," (/)","Airbus A320 (A320)",VQ-BST,29F,1,1,1,,2673,2816,0,27
+2015-03-28,SU1620,"Moscow / Sheremetyevo (SVO/UUEE)","Simferopol / Simferopol (SIP/UKFF)",00:00:00,00:00:00,04:37:00," (/)","Airbus A321 (A321)",VP-BTL,,1,1,1,,2816,2673,0,28
+2015-03-25,SU4491,"Oslo / Gardermoen (OSL/ENGM)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,02:01:00," (/)"," ()",RA-89047,8A,1,1,1,,2219,2816,0,0
+2015-03-25,SK4491,"Svalbard / Longyear (LYR/ENSB)","Oslo / Gardermoen (OSL/ENGM)",00:00:00,00:00:00,02:39:00," (/)","Boeing 737 (B73X)",LN-RRW,22A,1,1,1,,1732,2219,0,2009
+2015-03-18,SK4490,"Oslo / Gardermoen (OSL/ENGM)","Svalbard / Longyear (LYR/ENSB)",00:00:00,00:00:00,02:55:00," (/)","Boeing 737 (B73X)",,,1,1,1,,2219,1732,0,2009
+2015-03-17,SU2534,"Moscow / Sheremetyevo (SVO/UUEE)","Oslo / Gardermoen (OSL/ENGM)",00:00:00,00:00:00,02:15:00," (/)"," ()",,,1,1,1,,2816,2219,0,0
+2015-03-15,SU6578,"Blagoveschensk / Blagoveshensk (BQS/UHBB)","Moscow / Sheremetyevo (SVO/UUEE)",00:00:00,00:00:00,08:16:00," (/)","Boeing 767 (B767)",EI-EAR,40A,1,1,1,,393,2816,0,2011
+2015-03-13,SU6577,"Moscow / Sheremetyevo (SVO/UUEE)","Blagoveschensk / Blagoveshensk (BQS/UHBB)",00:00:00,00:00:00,07:03:00," (/)","Boeing 767 (B767)",EI-EAR,37A,1,1,1,,2816,393,0,2011
+2015-03-08,9U175,"Kishinau / Kishinau (KIV/LUKK)","Moscow / Domodedovo (DME/UUDD)",00:00:00,00:00:00,01:54:00,"Air Moldova (9U/MLD)","Airbus A321 (A321)",ER-AXV,,1,1,1,,1436,3651,990,28
+2015-03-06,SU1844,"Moscow / Sheremetyevo (SVO/UUEE)","Kishinau / Kishinau (KIV/LUKK)",00:00:00,00:00:00,01:57:00," (/)","Airbus A321 (A321)",VP-BLH,,1,1,1,,2816,1436,0,28
+2015-03-01,PBD239,"Nizhnevartovsk / Nizhnevartovsk (NJC/USNN)","Moscow / Vnukovo (VKO/UUWW)",00:00:00,00:00:00,03:28:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",vq-bti,27A,1,1,2,Pobeda,2063,3190,2058,2009
+2015-02-27,PBD239,"Moscow / Vnukovo (VKO/UUWW)","Nizhnevartovsk / Nizhnevartovsk (NJC/USNN)",00:00:00,00:00:00,03:18:00,"Pobeda (DP/PBD)","Boeing 737 (B73X)",VQ-BTC,15A,1,1,1,Pobeda,3190,2063,2058,2009
+2017-03-05,PBD856,"Gyumri / Shirak (LWN/UDSG)","Moscow / Vnukovo (VKO/UUWW)",11:25:00,13:11:00,02:46:00,"Pobeda (DP/PBD)","Boeing 737-800 (B738)",VQ-BTG,30F,1,1,1,,5263,3190,2058,231
+2015-10-10,UN2337,"Moscow / Vnukovo (VKO/UUWW)","Gorno-Altaysk / Gorno-Altaysk (RGK/UNBG)",00:20:00,08:10:00,03:50:00,"Transaero Airlines (UN/TSO)","Boeing 737-800 (B738)",EI-EEA,38A,1,1,1,,3190,3699,795,231
+2016-09-30,J28108,"Moscow / Vnukovo (VKO/UUWW)","Baku / Heydar Aliyev (GYD/UBBB)",18:51:00,22:19:00,02:28:00,"AZAL Azerbaijan Airlines (J2/AHY)","Airbus A320 (A320)",4K-AZ80,,1,1,1,,3190,216,41,27
+2016-10-01,J28005,"Baku / Heydar Aliyev (GYD/UBBB)","Tehran / Imam Khomeini (IKA/OIIE)",21:43:00,22:15:00,01:32:00,"AZAL Azerbaijan Airlines (J2/AHY)","Boeing 757 (B757)",4K-AZ12,,1,1,1,,216,3595,41,2010
+2016-10-18,J28006,"Tehran / Imam Khomeini (IKA/OIIE)","Baku / Heydar Aliyev (GYD/UBBB)",01:37:00,03:18:00,00:41:00,"AZAL Azerbaijan Airlines (J2/AHY)","Boeing 757 (B757)",4K-AZ12,,1,1,1,,3595,216,41,2010
+2016-10-18,J28019,"Baku / Heydar Aliyev (GYD/UBBB)","St Petersburg / Pulkovo (LED/ULLI)",07:16:00,09:50:00,03:34:00,"AZAL Azerbaijan Airlines (J2/AHY)","Airbus A320 (A320)",4K-AZ80,,1,1,1,,216,1591,41,27
