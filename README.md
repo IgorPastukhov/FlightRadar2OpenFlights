@@ -1,6 +1,6 @@
 # FlightRadar2OpenFlights converter
 -----------------
-There is no way to import your flights history from flightradar24 to openflights.org. But both sites have import/export functions for backup. 
+There is no way to import your flights history from my.flightradar24.com to openflights.org. But both sites have import/export functions for backup. 
 There are different formats in csv files, so you should use my converter. 
 
 # Usage:
