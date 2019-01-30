@@ -3,21 +3,24 @@ import cmd
 import re
 import argparse
 
-
+# Empty line filter 
 def is_whitespace(line):
     return line.isspace()
 
+# Apply filters
 def iter_filtered(in_file, *filters):
     for line in in_file:
         if not any(fltr(line) for fltr in filters):
             yield line
 			
+# Read csv file to dictionary and filter it
 def read_and_filter_csv(csv_path, *filters):
     with open(csv_path, 'r') as fin:
         iter_clean_lines = iter_filtered(fin, *filters)
         reader = csv.DictReader(iter_clean_lines, delimiter=',')
         return [row for row in reader]
-
+		
+#Getting IATA airport code from flightradar full text format
 def get_airport_code(source_str):
         parser = re.search('([A-Z]{3,3})/',source_str)
         if(parser):
@@ -26,6 +29,7 @@ def get_airport_code(source_str):
             print("Can't find airport code in",source_str)
              
 		
+#Convert from flightradar24 to Openflights CSV format
 def convert(source_file_name,dest_file_name):
     with open(dest_file_name, "w", newline="") as file:
         key_map = {'Date':'Date','From':'From','To':'To','Flight_Number':'Flight number','Airline':'Airline','Distance':'Null','Duration':'Duration','Seat':'Seat number','Seat_Type':'Seat type','Class':'Flight class','Reason':'Flight reason','Plane':'Aircraft','Registration':'Registration','Trip':'Null','Note':'Note','From_OID':'Null','To_OID':'Null','Airline_OID':'Null','Plane_OID':'Null'}
