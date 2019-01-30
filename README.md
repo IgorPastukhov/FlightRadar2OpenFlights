@@ -13,8 +13,8 @@ flightradar2openflights.py -s SOURCE_FILE_NAME -d DEST_FILE_NAME
 3. Import flights history on <https://openflights.org/html/import>
 
 # Files
-Name  | Description
 -----------------
+Name  | Description
 ----------------|----------------------
 flightradar2openflights.py       | Phyton script for converting exported files
 flightdiary_example.csv          | Exported file from <https://my.flightradar24.com/igorbasic>
